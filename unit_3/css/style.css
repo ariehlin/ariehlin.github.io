@@ -1,0 +1,20 @@
+body {
+	color: #008080;
+	background: #f5f5f5;
+	font-family: "Proxima Nova", sans-serif;
+}
+
+h1 {
+	font-size: 24px;
+	letter-spacing: 1;
+	text-transform: uppercase;
+
+}
+
+p {
+	font-size: 16px;
+}
+
+#slogan {
+	font-style: italic;
+}
