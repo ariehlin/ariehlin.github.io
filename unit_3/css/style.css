@@ -1,8 +1,7 @@
 body {
 	color: #fff;
 	background: #AED1D4;
-	border-color: #fff;
-	border-width: 10px;
+	border: solid 10px #fff;
 	padding: 40px;
 }
 
@@ -35,4 +34,8 @@ img {
 	max-width: 600px;
 	border-width: 5px;
 	border-color: #fff;
+}
+
+#submission {
+	margin-top: 40px;
 }
