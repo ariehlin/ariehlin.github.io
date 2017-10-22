@@ -2,6 +2,9 @@ body {
 	color: #008080;
 	background: #f5f5f5;
 	font-family: "Proxima Nova", sans-serif;
+	border-color: #fff;
+	border-width: 10px;
+	padding: 40px;
 }
 
 h1 {
@@ -17,4 +20,14 @@ p {
 
 #slogan {
 	font-style: italic;
+}
+
+a {
+	color: #333;
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+}
 }
