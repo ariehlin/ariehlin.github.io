@@ -1,14 +1,13 @@
 html{
-	background-color: #fff;
-	height: 100%;
+	background: #fff;
+	
 }
 
 body {
 	color: #fff;
 	background: #AED1D4;
 	margin: 20px;
-	padding: 60px;
-	height: 100%;
+
 }
 
 h1 {
