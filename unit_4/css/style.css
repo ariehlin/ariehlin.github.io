@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Paytone+One');
+
+html{
+	background: #fff;
+	
+}
+
+body {
+	color: #999;
+	background: #f5f5f5;
+	margin: 8px;
+	padding: 40px 80px;
+
+}
+
+.div {
+	margin: auto;
+}
+
+}
+
+h1 {
+	font-family: 'Paytone One', sans-serif;
+	font-size: 24px;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+
+}
+
+p {
+	font-size: 16px;
+	font-family: 'Lora', serif;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+a {
+	color: #333;
+	text-decoration: none;
+	border-bottom: 1px;
+	border-bottom-style: dotted;
+	border-color: #333;
+}
+
+ul {
+	list-style-type: none;
+}
+
+img {
+	background: cover;
+	max-width: 450px;
+	border-style: solid;
+	border-width: 8px;
+	border-color: #fff;
+}
+
+#submission {
+	margin-top: 40px;
+	color: #333;
+}
