@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lora|Paytone+One);
+@import url('https://fonts.googleapis.com/css?family=Lora|Paytone+One');
 
 html{
 	background: #fff;
@@ -17,12 +17,11 @@ body {
 	margin: auto;
 }
 
-}
-
 h1 {
 	font-family: 'Paytone One', sans-serif;
 	font-size: 24px;
-	letter-spacing: 10px;
+	letter-spacing: 2px;
+	color: #333;
 	text-transform: uppercase;
 }
 
@@ -33,7 +32,9 @@ p {
 }
 
 #slogan {
-	font-style: italic;
+	font-weight:100;
+	color: #999;
+	
 }
 
 a {
