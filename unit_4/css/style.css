@@ -24,12 +24,12 @@ h1 {
 	font-size: 24px;
 	letter-spacing: 10px;
 	text-transform: uppercase;
-
 }
 
 p {
-	font-size: 16px;
 	font-family: 'Lora', serif;
+	font-size: 16px;
+
 }
 
 #slogan {
