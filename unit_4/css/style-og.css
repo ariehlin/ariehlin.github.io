@@ -10,41 +10,12 @@ body {
 	background: #f5f5f5;
 	margin: 8px;
 	padding: 40px 80px;
+
 }
 
-.container {
+.div {
 	margin: auto;
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
 }
-
-header {
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article {
-	background-color: #E89C6C;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-aside {
-	background-color: #FFC675;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-footer{
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-
-
 
 h1 {
 	font-family: 'Paytone One', sans-serif;
@@ -74,7 +45,9 @@ a {
 	border-color: #333;
 }
 
-
+ul {
+	list-style-type: none;
+}
 
 img {
 	background: cover;
