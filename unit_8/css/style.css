@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Paytone+One');
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+body, html {
+	height: 100%;
+	font-family: "lora";
+	font-size: 10px;
+	color: #666;
+}
+
+
+header {
+	width: 10%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+}
+
+#logo {
+	max-width: 100px;
+	margin: auto 0;
+	float: left;
+}
+
+#container {
+	padding: 140px 20px 0 150px;
+
+}
+
+
+.left{
+	width: 77%;
+	float: left;
+	padding-bottom: 140px;
+}
+
+
+.right {
+	float: left;
+	width: 20%;
+	text-align: left;
+	padding-left: 20px;
+	padding-bottom: 140px;
+
+}
+
+#main_img {
+	display: inline;
+	max-width: 100%;
+}
+
+
+a {
+	color: #999;
+	text-decoration: none;
+	border-bottom: 1px dotted #333;
+	font-family: 'Lora', sans-serif;
+}
+
+#credit {
+	margin: 20px 0;
+	font-family: 'Paytone One', sans-serif;
+	font-size: 1em;
+	line-height: 1.0625em;
+}
+
+.color-bar {
+	width: 100%;
+	height: 10px;
+}
+
+#fabini {
+		background-color: #364753;
+}
+
+#gallace {
+		background-color: #ACB8C4;
+}
+
+#wilsar {
+		background-color: #f5f5f5;
+}
+
+#leon-bridges {
+	background-color: #5A5A4A;
+}
+
+#hale {
+	background-color: #DEDCDF;
+}
+
+#desert-sky {
+	background-color: #406C82;
+}
+
+
+#pardon {
+	background-color: #DE5072;
+}
+
+
+#left-right-left-right {
+	background-color: #E7E9E8;
+}
+
+#clayton {
+	background-color: #7993D0;
+}
+
+#protest {
+	background-color: #DAD6CB;
+}
+
+#charlottesville {
+	background-color: #12080C;
+}
+
+@media screen and (max-width: 835px) 
+{
+	body, html {
+		font-size: 16px;
+	}
+
+
+	#container {
+	padding: 150px 20px;
+	}
+
+	
+
+	#main_img {
+		display: inline;
+		max-width: 100%;
+	}	
+
+	.color-bar {
+		width: 100%;
+		height: 10px;
+		margin: 0;
+	}
+
+
+@media screen and (max-width: 705px) 
+{
+
+
+	header {
+		width: 100%;
+		position: fixed;
+		top: 0;
+		bottom: 0;
+	}
+
+	#logo {
+		max-width: 100px;
+		margin: auto 0;
+		float: none;
+	}
+
+	#container {
+		padding: 150px 20px;
+	}
+
+	.left {
+		width: 100%;
+		float: none;
+		padding-bottom: 0px;
+	}
+
+	.right {
+		float: none;
+		width: 100%;
+		text-align: left;
+		padding-left: 0px;
+		padding-bottom: 60px;
+	}
+
+	#main_img {
+		display: inline;
+		max-width: 100%;
+	}	
+
+	.color-bar {
+		width: 100%;
+		height: 10px;
+		margin: -5px 0 0 0;
+	}
+
+	#credit {
+		margin: 10px 0;
+		font-family: 'Paytone One', sans-serif;
+		font-size: 1em;
+		line-height: 1.0625em;
+	}
+
+	a {
+		color: #999;
+		text-decoration: none;
+		border-bottom: 1px dotted #333;
+		font-family: 'Lora', sans-serif;
+	}
+
+
+
+	
+}
+
+
+
